@@ -1,0 +1,477 @@
+(footprint "OVSRRGBCC3_Side"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 1.188835 0 270)
+		(unlocked yes)
+		(layer "F.SilkS" knockout)
+		(hide yes)
+		(uuid "e64747d7-03df-4e8b-99bc-0ef5cc19b97f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "LED RGB"
+		(at -1.809205 -2.792946 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "13791bb9-db78-4b34-986b-fec216b6c365")
+		(effects
+			(font
+				(size 0.6858 0.6858)
+				(thickness 0.1524)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a67d9e8-dd4b-4490-b4cd-5f90e8b3d0da")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Optek, Side mounted RGB 1204 SMD LED"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83c5b0bd-6ce9-4594-aae7-9ea01d2b04d2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "PART NUMBER" "OVSRRGBCC3_Side"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4b09d444-e6f4-40d8-b261-9e2849d74c92")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTID" "101400026"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c0a07e0a-cf67-421b-ae2c-804f1705dc67")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENT CLASS" "Optoelectronics"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "52218844-9845-456e-ac0f-e04eb9805327")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "AUTHOR" "rsk"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "70dea400-2eb5-4893-bd9e-92c5afbae383")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Optek"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "82384814-37de-455f-9f63-0704bc4f282c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER PART NUMBER" "OVSRRGBCC3"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dbf17678-85f0-4e4b-9ba0-7350e9189ac3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK1URL" "http://www.ttelectronics.com/sites/default/files/download-files/Datasheet_OVSRRGBCC3%20Issue%20G.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13eb4973-1904-4b53-9195-391482e9e880")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56508b93-c3d8-4dad-bf95-60d3f6552056")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK2URL" "https://www.digikey.no/product-detail/en/tt-electronics-optek-technology/OVSRRGBCC3TM/365-1981-1-ND/5147364"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "060b28ea-52b4-4279-8582-3fe8945d0901")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK2DESCRIPTION" "Supplier link"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "840c2941-7902-4d4f-8b04-0af08feab95b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "HELPURL" "http://no.farnell.com/optek-technology/ovsrrgbcc3tm/led-dome-rgb-smd/dp/2428398?CMP=GRHB-OCTOPART"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f765cbe4-b49a-408b-85dd-ebe8cd277533")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "FOOTPRINT DOC" "1204"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "949bb27c-cff5-4793-a73e-7562e0497ae3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LATESTREVISIONDATE" "2018-07-23"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a3812c7d-94c9-4d1d-8ba0-1588230558f6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PAD COUNT" "4"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63a0b73a-492a-4e19-8e7f-83e9987d9062")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PUBLISHED" "2009-09-11"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "46c67574-6abf-4a93-bcd7-20adcb42940d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" "LED RGB"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a7a57bbb-6ebe-4ec9-8dd2-7fc41553f54b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "NOTE" "Side mounted"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8fc872ef-24fe-4800-8b08-06d690140257")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "Digi-Key"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b1c6fe4a-edd1-48af-aee1-c5862c561be3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "365-1410-1-ND"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d3f8ef0e-7e54-456c-a248-7145e0693f80")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER 2" "Farnell"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9443a38-f985-4bb9-a3d2-894f7cfdc9e4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 2" "167-8707"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2984e1e0-1e1b-4a87-ae15-db8a3cdbb801")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ARTIKKELNR NOCA" "N.A."
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fdebba4f-c5c2-414c-9012-67e43e98bf66")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PART NUMBER IPS" "N.A."
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "373b572f-d1b8-4c34-a666-4a2064332783")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PART NUMBER NORAUTRON" "N.A."
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "58f3c1ea-8f9f-4599-a4bf-7d7193d609aa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ASSEMBLY" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ef56e831-b498-451f-8359-7825def76467")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENT STATUS" "Active"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d2558b33-d35b-4db0-9b26-9b82fc35fb1f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PART NUMBER NEMS" "101400026"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "13495ac0-934d-40ad-8432-d9d72b88daee")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/Sensors_LEDs/")
+	(sheetfile "pca20065_sensors_and_leds.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.7112 -1.7272)
+		(end 0.4572 -1.7272)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c9555b4a-4624-478f-93da-306539b90e3a")
+	)
+	(fp_line
+		(start -0.7112 -1.016)
+		(end -0.7112 -1.7272)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a2b8ebe4-47fa-479d-8ebb-dc11558be0ad")
+	)
+	(fp_line
+		(start -0.7112 1.016)
+		(end -0.7112 -1.016)
+		(stroke
+			(width 0.08)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4d56b0f3-42d5-4c5e-9768-af7ef7fd2e31")
+	)
+	(fp_line
+		(start -0.7112 1.7272)
+		(end -0.7112 1.016)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3bf30f6c-c1fa-4c05-b2d0-81b6177f320b")
+	)
+	(fp_line
+		(start -0.7112 1.7272)
+		(end 0.4572 1.7272)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "08c95ba8-f2c8-4d6b-b13c-38d1041e713a")
+	)
+	(fp_line
+		(start 0.4572 1.7272)
+		(end 0.4572 -1.7272)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "25f47a84-cecf-4c60-9097-8582c9627478")
+	)
+	(fp_arc
+		(start -0.7112 1.016)
+		(mid -1.7272 0)
+		(end -0.7112 -1.016)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0a29556d-9db5-46cd-bbff-50639e86c1fa")
+	)
+	(pad "1" smd rect
+		(at 0.127 0.4064)
+		(size 0.508 0.508)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "04d938ce-5702-49de-b7a6-dca3e7cc31bd")
+	)
+	(pad "2" smd rect
+		(at 0.127 -0.4064)
+		(size 0.508 0.508)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "76563bae-d22f-4f10-9c78-c668cdde706a")
+	)
+	(pad "3" smd rect
+		(at -0.127 -1.3208)
+		(size 1.016 0.6096)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6e5705fe-4dd2-4be3-9be2-2349b9349d6e")
+	)
+	(pad "4" smd rect
+		(at -0.127 1.3208)
+		(size 1.016 0.6096)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ce1f5ba6-2d9f-4ddc-abe2-74b030c0fb95")
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,699 @@
+(footprint "BGA8C50P2X4_89X189X50"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.177651 1.522263 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "50f9aa4d-528d-4605-b4e9-a92aa04be11a")
+		(effects
+			(font
+				(size 0.635 0.635)
+				(thickness 0.127)
+			)
+		)
+	)
+	(property "Value" "TXS0102YZPR"
+		(at -2.886892 -2.259546 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "93fd3df7-8eda-4b56-8efa-5f3576c5e1fc")
+		(effects
+			(font
+				(size 0.6858 0.6858)
+				(thickness 0.1524)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "ec84446a-8874-4263-bd0f-25d1de68301c")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" "Voltage Level Translator Bidirectional 1 Circuit 2 Channel 24Mbps 8-DSBGA"
+		(at 0 0 180)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "04ab42af-b50c-4554-9f16-5cdf29e34e20")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify mirror)
+		)
+	)
+	(property "PART NUMBER" "TXS0102YZPR"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "8f2628fe-6452-4cc8-a2dd-0bae46526a24")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "COMPONENT CLASS" "Misc_ICs"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "7c4ab35f-3ba9-4cf0-a61f-921355905f97")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "AUTHOR" "rsk"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "e5269522-0510-4c2d-a7d5-ecc10539d1bb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "MANUFACTURER" "Texas Instruments"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "50221b02-d390-4fda-8d83-52dc2d321c6d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "MANUFACTURER PART NUMBER" "TXS0102YZPR"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "d895364a-2bae-4502-a60a-f6967ca717b0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "COMPONENTLINK1URL" "https://www.ti.com/lit/gpn/txs0102"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "f1d85c25-f66a-4d6e-a7ea-46c187d94d2b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "a23d73e8-6670-4ad9-9403-fcb888e33b9b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "COMPONENTLINK2URL" "https://www.digikey.com/en/products/detail/texas-instruments/TXS0102YZPR/1629105"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "3d13eb19-418d-45b6-80e6-45e3467ffa8f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "COMPONENTLINK2DESCRIPTION" "Supplier link"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "204d6959-b0fa-4459-830f-a56f8b2e87ca")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "HELPURL" "https://www.ti.com/product/TXS0102"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "badb0ecb-73e1-44e7-a04b-5fe12da39829")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "FOOTPRINT DOC" "UFBGA-8"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "881c1764-0831-4f29-bc86-3566f73556f1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "LATESTREVISIONDATE" "2022-10-05"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "37122f92-30b9-44a1-b205-489194367246")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "PAD COUNT" "8"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "bbcde168-da6b-4b2e-b449-3905e3fbc435")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "PUBLISHED" "2022-10-05"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "0655e333-857e-4da4-b20c-bfdfec90b8c7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "ALTIUM_VALUE" "TXS0102YZPR"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "28e3d807-75b8-4ff5-80a0-f5baf2db0721")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "NOTE" "TEXAS INSTRUMENTS - TXS0102YZTR - IC, TRANSLATOR"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "3750aa5a-2042-4df8-82d5-2d8e48b2e965")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "SUPPLIER 1" "Digi-Key"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "8019f11d-73e2-4584-8c62-8ea475c86f14")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "296-TXS0102YZPRCT-ND"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "7185ca3c-9309-4353-85ea-9dc91167dd7b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "SUPPLIER 2" "Mouser"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "63b3971a-ca03-44fb-aee0-b9b4831a6898")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 2" "595-TXS0102YZPR"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "a2a723a1-4882-4e6d-ad0c-5deef4337443")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "ARTIKKELNR NOCA" "N.A."
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "978c487c-c74e-4213-968f-2851cdec8854")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "PART NUMBER IPS" "N.A."
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "f0cf8ea8-0ef9-454f-a38b-fc992d33b596")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "PART NUMBER NORAUTRON" "N.A."
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "05efc68d-0f84-4954-8596-c824103bf917")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "ASSEMBLY" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "0b65a184-96fb-4a12-bdeb-7fa7ed59ef16")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "PARTID" "101900724"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "fd7b0720-fa28-4fc0-92ac-28f887b0870a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "COMPONENT STATUS" "Active"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "6a00bba7-a74b-40b0-940d-ebd534fb9849")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "PART NUMBER NEMS" "101900724"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "bc435876-6ab1-4f9c-9e37-9d51ba001a8d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(sheetname "/Interface/")
+	(sheetfile "pca20065_interface.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center -0.55 -1.05)
+		(end -0.55 -1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "391ac8ac-5749-474f-ac74-3e56d6f1b72b")
+	)
+	(fp_line
+		(start -0.445 0.945)
+		(end -0.445 -0.94501)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b1ba28b5-cfaa-413b-a4ef-5be50dedf11d")
+	)
+	(fp_line
+		(start 0.445 -0.94501)
+		(end -0.445 -0.94501)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e2133b2b-cbaa-4b89-9c1b-b1c260b04acf")
+	)
+	(fp_line
+		(start 0.445 0.945)
+		(end -0.445 0.945)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aa4cadbe-9b28-4ad1-af1f-979497f299bc")
+	)
+	(fp_line
+		(start 0.445 0.945)
+		(end 0.445 -0.94501)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "094ff10e-6c38-4b00-a264-c90fe9279864")
+	)
+	(fp_circle
+		(center -0.55 -1.05)
+		(end -0.55 -1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "afd26c24-d4c7-424c-b0a1-44d238630138")
+	)
+	(fp_line
+		(start -0.7 1.2)
+		(end -0.7 -1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.18")
+		(uuid "0acb2748-4615-4417-b4f3-ed8799a3e4b8")
+	)
+	(fp_line
+		(start 0 0.5)
+		(end 0 -0.50001)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.18")
+		(uuid "39607a07-50c0-417f-84c3-0f94beb2894b")
+	)
+	(fp_line
+		(start 0.5 0)
+		(end -0.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.18")
+		(uuid "b2f53fd7-dd21-4363-bcd6-7b53d9151b51")
+	)
+	(fp_line
+		(start 0.7 -1.2)
+		(end -0.7 -1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.18")
+		(uuid "49162262-16ab-41e2-9d48-cfd9f81df8f9")
+	)
+	(fp_line
+		(start 0.7 1.2)
+		(end -0.7 1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.18")
+		(uuid "c4e803f3-643e-41cf-a0e9-19fd6e8c3f5c")
+	)
+	(fp_line
+		(start 0.7 1.2)
+		(end 0.7 -1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.18")
+		(uuid "d4f87e4b-9037-474e-b5e0-c6064be1e2a6")
+	)
+	(fp_text_box "${REFERENCE}"
+		(start -0.27579 -1.54931)
+		(end 0.23208 1.5993)
+		(margins 0 0 0 0)
+		(angle 90)
+		(layer "F.Fab")
+		(uuid "7676bbfc-3d33-4890-8e1d-a755097d79c2")
+		(effects
+			(font
+				(size 0.3048 0.3048)
+				(thickness 0.0508)
+			)
+			(justify top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(knockout no)
+	)
+	(pad "A1" smd circle
+		(at -0.25 -0.75)
+		(size 0.17 0.17)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "7fb48acf-ae39-49d1-a1ba-139e41a69df5")
+	)
+	(pad "A2" smd circle
+		(at 0.25 -0.75)
+		(size 0.17 0.17)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "9520f103-9e89-4dc6-b84c-1e11c2758b42")
+	)
+	(pad "B1" smd circle
+		(at -0.25 -0.25001)
+		(size 0.17 0.17)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "801c885f-1e1e-4576-81f9-034acbf60066")
+	)
+	(pad "B2" smd circle
+		(at 0.25 -0.25001)
+		(size 0.17 0.17)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "864d5395-7bb0-4bbc-9ea2-8341210b85af")
+	)
+	(pad "C1" smd circle
+		(at -0.25 0.25)
+		(size 0.17 0.17)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "b1f6abd7-c4a4-4216-9978-2ead1e63e65a")
+	)
+	(pad "C2" smd circle
+		(at 0.25 0.25)
+		(size 0.17 0.17)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "f43f59c1-1601-4f8c-bbda-0981e398149c")
+	)
+	(pad "D1" smd circle
+		(at -0.25 0.74999)
+		(size 0.17 0.17)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "cb564393-c96f-4f89-b3f4-a0d421cbce82")
+	)
+	(pad "D2" smd circle
+		(at 0.25 0.74999)
+		(size 0.17 0.17)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 90)
+		(uuid "25e4c08d-2fe4-4413-a527-d42e298b4e15")
+	)
+	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "User Library-BGA8_YZT.STEP")
+			(type other)
+			(data |KLUv/WC+YCV+ANqh0Bks4GrKFBtkSbxXQGdHnyGG3HDGypJBmFtLP9u8IrK7N9caZVrBqBIxRoxl
+				GJsaAogBQAEQI/Nw8f47vjNGBEAEMahQFi6SZKrUQc+GI1HxoMGGAwFFkObBRIYBzAMQGYoHEBAZ
+				jAZCIiJqbCFMkQIwU+XBIk0NDYlIKJbpYuGJFIFIFUcEwCRZmEiYabKOyRE5IhJJpMERsTyNACBT
+				gzR5GgyGy8JkkujTgJ6ITeZ5HHQkGnggt8XTcUDT2XAeEK8mUHCJPI1GQyaLhGEgXSrTY/KAkUgJ
+				FMlCAgVP449I5TI1UKaFh5EIhvaYKhHIG5GjLpMIxQEzkSKW6VKRHoc/gxzTMD0kiQPmLBED0hZR
+				w6xMYiPRQBPxdCgyCzQUHTd4wYigCEp4OECM3YYKRUF7ESnEyFxEEMS4PB4gWLaIcMG4TCbLVHGY
+				KpjJQWKwHKrQQEhsMg4gNAo8DwWnwZPpZCIeDQUHgnExYLpMKI9r3CKqqougDQISFZoIjIYBiQ5H
+				AU7nQQaKoAiKTMQm06l4JjIbjkQns6HQdDYSUGQSUZBQHpQLpeKAkR4RiYOD9BDw2EK6SJDHZIFM
+				pgYUgT1o9zz12APBM1mILIhcKA2Uy4MEMRhSw8TwsGwa4GwS2DxAEZSOfSg4FRUaCA7FAo/DdHkS
+				KGBEDYiC46DzQIIYEcQX4Beg6tKHYIXwK80CGQeWqUGaNCAb4KCoAU1oIjgNzwSRHhbp8Ww0C1Ag
+				BmNCiVwcIpWHZYJgJklEoTJBpIkhgYIB7BBeL0OgWCIBaqURSaejmPdSUzOzczMTMe1tq0+7SzOH
+				giNKNkurxHdtF2vaXadBJgtF8uhGxuMRk7CIiIiIiIjYRzw2+LbX5/MR9EAEJwGP//X//W77/6wB
+				iNoM7WwyVR4UyfKAYSBJaJgmzApoOhJPA87T2WgU0EBkJhwWMjVMl8hZJlLlcu0QYbBINiF3d+ew
+				p5OZqNhkKDoMs7O611m3GV8vIjZbs8Sr2ZlZWZuVNXOhaWLZ5Wk6MrrkUYkcrhruOftlZsC04GpB
+				5eHR3YsAIhUKswOFIsFMC5BpewGZPFAS1HFxRFuKgUyPibQAImViJpMDBRvYkglCaZgsUgJGIpkY
+				LD+zN2Z6SAoYiISiEJlIDdfM1tXNzNWLqJmtVxM1kc/Hxlt8Vty8yquJX4Rb/K1tbXM1r+ahJl5P
+				TUvPSps3bU95NfF5+EvLysaOEtFRCFzJuMuLqHFePE/v7nURdVqiYiIiIhRBd67i7u+Pl4dmWKjY
+				fPxen8dr4ve/2+tn9X7z7akeFEFGwelkIAGJR7wmfhEPDQsPDQv7fd69Xp/n5/H/3f7f7fW6RIIw
+				ePRd+L53vWOu3vGO99/v7u733+12ux3tdsSzo/12POOzu53Zy/rKXq8rr9azjnu/ev1nVe9u7uq+
+				bmztbOz3+9q6urqZuZl5eblV+fLSyGydjHw+Nr42Ll7e3V7eXV3d3MX97vfW1tb0dpv1VlVVEzUV
+				9Xqnd9Mr1etsZV3t5OTczN3UxHxmYj4vLy2zubIZb/E0ExERDxXw0NCwsHnP3+v1m8/f//9uZ7++
+				Pr463+7p4fXy8O6/O8vCOzuua7bbtbOztBva7ews2+zKunm5LrMOFev+uqvDrKvr7u7m7t7u7rKz
+				uu5utetuZl5uZl5WVk5GRj4fn4+Njbe4uJd5d3d1c3Fxv7lfvb21NYTa2ubmbXaY6qpeVM9h0VUo
+				l4dpBREE21bb2mPlttZWVtbVVVXV1FTUWtSjXU+PPzUt5SxtyEEDnJybm5qamZmYmM/O52VfWp6Z
+				ZSVU8YDzYCPR2SgsTCIXhoUHqQLphjnKQnGIekHlgXe5rNhRCQsVzC7iA0VCeWBUM6WpImEUECGR
+				38FwoSQ4GIcNxmM0GGvDKDgTDAmDi6UQG4WImUgMj6mhG0e233e1LxPxiv/t7nf7uV5ve3OZ7Wpn
+				4iner+vu7uyyrq7tmrl31TYTTdFuy2dnZltW1mbNurt6zUTFwhemXuEVWldhFbZVczd/e/mY2trZ
+				iY2tf2e/r62rO4ImJjIHNDczWzMvLysrJxsj/3xsfD42Ri7+nve7vby7GulODA6WzDM2hMlWsfGw
+				MNWxuLj/3X7//dZery/W6/Gqvx9Tj5bXX78/RT01/eVLX2n3zvNt85vfL5omZz7zmH/++bvLX94w
+				n6985RuPjWc84hev+IUpqKMiZb1MzchIClKQQjpDxygkjAv0RC7ieVMTYWgoCcTiIAjCEAShGAaC
+				EAajEEMUVMQhgxyq1QayYTeU4vTAMIFazw7YX+YJiYxgFqM70YWT8kpxbtbVGikJ0XcrtCvuaQuU
+				/kv1CA6wi5HsLPdsDmh84bgsWZwnc21PioMqW19CCoc4h4jiJwzel142zVwFLanf+zZFiOiGJItU
+				tYl0/bTG9QQQmbuHqDVEtYGkcbsb429OBzTs4YVOx4+yz6jEw1UQkAhQdipf7nBl6AwaceNMzGWf
+				ZG7SYa+64DD3owxOZ2JcR7BmmZKbItHgShBIy0sTKgus5RKIjYvCG9SkiqQoMtF6VvmljLOLMMoJ
+				qsp+AgcO4jnl+ts5ydhzdIFy3UylonuItC++VXySm/XQhF756jiZX55T3tVL3uT5sRX+W6GNiToa
+				7mLIKxS77hcuJ98x96ulyXDuUIg/rdjGRh0MczPsFYld9wuXk++Y+9XSZOC5w3deJLiBeRtH/mWr
+				V/7dOlbwluCN6z9fp2OM5sE0xfruMawbYXsNs7ksU9AGvUbIiRE/4dDH4LScjj4fE9CC1l94Rr8b
+				hnzmz25tcUc10pLxoPGBaTRs6ZuUrJ509H3emsnp1C6Be3+Jso10A4WLXMLTn541IeLSuatwgDUn
+				OOJl/xRWyKNvHSupaPFNmb9D+VCJoWj37dliAa/uMb1tqV4LTtLB31oJlFz39KyhqYyuKR6aHo2N
+				iQo/0mDdxEN/KLqezSFciIemSAMbXurLVRAWd/12IMNzySM8NA4IHm1LVbSxba5jDXWwLX2yA0F9
+				WzR7z41K0bnUe4DmSOEW+F1nEHDpLPmEYt25ZiXvw2tBSWc+dVWb4TBnnZJiqDoWiMo7YzfWbKUU
+				cdvwEjFC9/N6T6/A1lV9Yguv15BpOzBJS8i3Wl8/Ob7tvgH5kfaopWRKkgcIuY+8mEKVA2E1xTjJ
+				p2lGZLXfzkeL0u/CZlpHz9eCOch1PSs7emQbyEWyQAfMVKxl4PZMNdBm+Y8A1rCMZxmIjnixqAe1
+				aPbl66/PCJ1TAzBa/zG4VhuXH+NDFNFHxmTKEdVRnRRYrDyD0uiNWka/xvdriL5njtpTpGDrIgNl
+				v2+9ymZjP15j3Gb23XuFeY5ffy6gP6oauQEof+FzQhRE6HzGpWMVNUP4i1V+5Li4vA3qS4zge/EY
+				K0Zk2dukqa1bQoWWwvzgob8kE5RATSN+8DdvJ1BVA+w+8oiE63u1h/q4sYAmoqSQVhJMBJ/FeIsq
+				vnZJJ0g1ldKlp4hLELgoj1vWev7sgkrVg+x2xB3e8oKNPqX69FBwUyY1U5HRCLZFWtJo4O98gg8k
+				kPF4hFtDeFHlgZ9IeWJAdSpu4WPEBm+KtjqbUTwtMSQ5gTdAGHz70spVcb7+ewcYE+P2RAdQhjfQ
+				hVsp4flyKyXDE8FCl3dd7SMWow+6ofPCfcl5EoKNKcy9RUi6FuDaH/i706E9cUWtPGMoSULGghkT
+				QZZW/jixJygajvG9mJMAnKssorZWpiREAHauPCcjkcRpgKnxQnA/mp8m2Uk/aZq56CvapZiAhVIF
+				d32BFdVK/PJsifw+JRbv4Ah1WfibQrlCTQiz5RgqvD/5ruvzR5hswskcej3Iy38P94uSzJQFSmCs
+				X3zKOAtWBjL4VzbYbMjSlnV05/2uHIqL0O5GWrpPzDguRfHG5eJ6t5tka23eUq90V3tVqDO7HkMw
+				t1/WRKIuTinwDMvOTm7FdbMEFR35z7cyqXl2DtyaMlSeiPyhAR7tEgatRbd1UR3LQ0zxnzsSFB+x
+				jrUNs7ICWONF1oz4psKBIo2ZpgqehAoW1fGyc4fyDU/ltJltWWejbjkYQePq1ipFHpJ//3JIGof7
+				561c7ZTmTwsVMyxl59nAhYiylYkebRb1oeCv3gnLxUu+tMt4W6pA4NOTJqAiKZIl3v9B056JqCeg
+				WNaZ5ror0Lse3sF0d7Jbk9iuN0axVPHBSHjQRKFrv+/YHjZsVwLjoPrRawB3H3TG+IOHIPln3flY
+				HpRorrvELxJtrJaF4ivGd3xf8MnknZ2vjQ5D7gBJD+H7BM76Joq9TyGm3rX3iIenQfYchOMGnjjR
+				04qrsA0tczQeSXbjIWIsKvXyTFdtgOY376brjU2IO+oaOook00pD2vpE66RgLrDeKcZZVv/tLZsn
+				1XOlbb1F4ESzZROL+r9WT2LMplqjpapkWvBRtS60jIrKJhZX8AhQVgTlZKHxb/XwjcoopZ9VqdV8
+				WrbW/a5k6sLWQhKZZ0hZdNYPbyUw7oA09Ih4eAT/Ci2jkoWxW0y1TWrdR87bl45Fv0YEAPZjHHmt
+				UVeE3NdoHQIJfLWBX+fCSugM0Kux60F9EvoPooaAGf6bM/5ho+MGjPa6YZrdAYhBK4iebWJY/kde
+				GwTMPl7JJhh/lgWWtbGfS0Ua1yrl8JPvVhcRqqNs+gzUWG4GZg9gb7LU59HMw3Y1AKA6dHR6guzN
+				7WoeJPh1SEU9P/9rPELGP6ZkRArbNbNv8zPRmcrlPV3QPcoMQmqzJ9Wl0ycUTbUCaRcm1KdKMc+r
+				6kVuoh6aP6/jaYqTkSFnsmIbTyq6nGaewe8JPJ5TbAzjS+9cM1KrT95wocyZDi8BPX6ocMAJQ5+L
+				ORv9wPF4rMUObvoleCtAMgjxW3EzwLmgHfoo+nH/6qWHwUtO3F6HpxZJciTzI4DQR8GOATbx/lH1
+				JhErR/2Ng6n9Zp2DnNA0GCYV+awLxvnJG6LFpbeasMihFfBi0gqdd3WDjglDOi7iarXQEJF9Y7D4
+				Fjp07XIkGMc4EtiVG2WshnKDgazorwNsOiCptg+n8CYu//ERLZMQTTpd33/UNkEh3A4I6nPvn4M3
+				lsb7Q+/B2oU5HOd+p4NjeVzhgXHNauLOVBnPeNaV3Q9j9r9NwfNLBRtsTyfHiTXuwdx/S8Dc9Zer
+				4F7hECmvxWLf6utx2dqrFbnRXV8FsXqSiZR4wr2UPkdIM3oNKVddwB0DpH6Bc9FLLhNCi2O0lWek
+				Vbw1nkEwtWcWpqHwHWDnJsQIV4UcmTbwWgIFaXvO9fOzrOzQpvJSGhYAy7+4GmT03wNphcR5kQgR
+				rZNVJj8uE3Wh7QoXKlS9pU4xQuvf+oLLxMFmVk3HRqWfFtT0BBi4A6NT80TaHDJmW6aNrqRmiA4=|
+			)
+			(checksum "B2987B70D9B73B57B3AC3D3E8C82F81A")
+		)
+	)
+	(model "kicad-embed://User Library-BGA8_YZT.STEP"
+		(offset
+			(xyz -0 -0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 0)
+		)
+	)
+)

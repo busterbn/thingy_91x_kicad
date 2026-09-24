@@ -1,0 +1,434 @@
+(footprint "TP_SMD_D1.0mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0.029323 1.287797 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8c8f0c16-3f4d-494e-b055-c669f8632376")
+		(effects
+			(font
+				(size 0.635 0.635)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Ø1.0mm,SMD"
+		(at -2.573019 -1.853146 180)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8a34a0e1-0aa4-4493-b484-8a740cc3810a")
+		(effects
+			(font
+				(size 0.6858 0.6858)
+				(thickness 0.1524)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36a86d91-492e-4e1c-9901-df18e7f00dae")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "1.0mm circular SMD testpad"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "da5e2bec-e63f-4ba4-841c-1251494255a4")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "PART NUMBER" "TP_SMD_Ø1.0MM"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b71c052-dba2-4406-96d6-4aef9c4681f5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTID" "100500475"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "815223c0-de8c-4566-a52c-486bb0a3a3f8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENT CLASS" "Connectors"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75ef21c0-fb91-40e0-9a3a-79824d79ebea")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Nordic Semiconductor"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "05b75024-fd40-4ac6-8ef9-fea8043c3a30")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER PART NUMBER" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a5fe4172-3131-4239-816c-b11cf937d7a4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK1URL" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "45c0d428-7be6-4c2d-9b7f-a8346201645c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "06c4a121-bfcf-43c5-b3b9-432b62e01431")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK2URL" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "60c4fd9d-21f8-40c4-b13c-ed6a610254fc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK2DESCRIPTION" "Supplier link"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eb9f95a8-fd4d-4325-a30a-e0add463a19e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "HELPURL" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed062fbf-20d7-47d5-bef7-817f2b9fb6df")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "FOOTPRINT DOC" "TP_SMD_Ø1.0mm"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a2631e58-5629-45e7-80db-9038fb916bde")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LATESTREVISIONDATE" "2021-03-05"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5e3d21a-9656-4104-b4c8-1b7b4ab8a2c3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PAD COUNT" "1"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "610be1d4-39c7-4266-a94c-3bba02069c6f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PUBLISHED" "2013-06-11"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "18474bb6-2b2f-421b-a44b-8f5d54299ccc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" "Ø1.0mm,SMD"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e48b8ae-8914-485d-bc71-a47c1fe5b28a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "NOTE" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "163669e5-5088-466d-a79a-0e3eacfe58b6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8c2e6f9d-3f2f-4f22-974e-922791085753")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "daec5de4-9853-44f6-b389-39cacacd4959")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER 2" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d2877cf0-f9f8-4f08-afb8-583a3d3e9d6e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 2" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7652c17-48e9-482a-a60a-10fab77aede7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ARTIKKELNR NOCA" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b888327c-e98d-43fa-9942-7ba6719dfaa1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PART NUMBER IPS" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "14666c6e-45c7-4bef-ac79-f838afe9ce7e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ASSEMBLY" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57e48f62-5b13-41ab-adfd-ce576ffe67fc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "AUTHOR" "rsk"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fd3d3a18-b1a2-4610-93a2-4b48857a1463")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PART NUMBER NORAUTRON" "N.A."
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "054001f4-6b6c-4ad0-9bac-2007483bc84f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENT STATUS" "Active"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e6d7fbd0-43c1-4089-a6e3-6d78c398bf16")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PART NUMBER NEMS" "100500475"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e6103204-f634-4a1f-b4a3-7c9a7c8086c6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/nRF9151/")
+	(sheetfile "pca20065_nrf9151.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center 0 0)
+		(end 0 0.762)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "8eff37b1-8414-486a-b48b-94b14dde035f")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "9e8c56d5-624b-4cc5-a2a8-f85c4e45e274")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 0.762)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "72878f29-e695-4d66-864d-68cf91f3e2cc")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.031204 1.191312 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "9b0a0eb7-814d-491e-89db-dafdc3864fbf")
+		(effects
+			(font
+				(size 0.305 0.305)
+				(thickness 0.051)
+			)
+		)
+	)
+	(pad "1" smd circle
+		(at 0 0)
+		(size 1 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -5)
+		(thermal_bridge_angle 90)
+		(uuid "b45832c3-f51a-4324-81ef-03d024ae38b7")
+	)
+	(embedded_fonts no)
+)

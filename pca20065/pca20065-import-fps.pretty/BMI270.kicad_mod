@@ -1,0 +1,697 @@
+(footprint "BMI270"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at -1.969313 0.101761 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e6ec5dc5-db00-4450-8e3d-ac30a6510379")
+		(effects
+			(font
+				(size 0.635 0.635)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "BMI270"
+		(at -2.967242 2.377317 270)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d8c27abc-4c9a-4467-b6a5-3bfbfeb53a4b")
+		(effects
+			(font
+				(size 1.524 1.524)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d7c47922-abe0-4b26-864e-1db51f3ba887")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "6-axis, smart, low-power, inertial measurement unit"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b4528986-008d-4cad-ad48-dcc1f1d23be0")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "PART NUMBER" "BMI270"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0af54fbd-df7c-4269-afda-edd1a92e7e49")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ASSEMBLY" ""
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e8b0ef48-a217-4bef-b145-3c8c94eed866")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Bosch"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63f94ea2-7527-450f-bc7d-443dc291ed9e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER PART NUMBER" "BMI270"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6946368f-3211-413c-a34c-5a2ebd25357a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK1URL" "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi270-ds000.pdf"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77064c03-222b-42b9-a5ce-39d22546bb2f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK1DESCRIPTION" "Datasheet"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0423742a-89f9-466b-bd54-7039a4f0a98d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK2URL" "https://www.bosch-sensortec.com/products/motion-sensors/imus/bmi270.html"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "99fb2518-357a-409a-8c78-0c556d6977b5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK2DESCRIPTION" "Supplier link"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b386c594-4433-438f-85fb-0d44385a1e56")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "HELPURL" "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmi270-ds000.pdf"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6257887-3846-4c7e-a2f1-a3c48694cad2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "FOOTPRINT DOC" "LGA-14"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9ebccfda-7d64-4710-94db-6faa2a01a69e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LATESTREVISIONDATE" "2021-08-03"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4fbf8256-40b6-4e2d-8172-f6406244b550")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PUBLISHED" "2020-07-07"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63ebf5ae-506c-4048-8148-f2728a588cee")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ALTIUM_VALUE" "BMI270"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "495e97f8-a7b5-4487-9d8b-1cb2452480d4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "NOTE" "N.A."
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c1f848d7-0fb6-4a6f-ac28-28cc3ec637a1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER 1" "Digi-Key"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ddcb3a18-b477-4214-941d-a5ec68ba8e42")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 1" "828-1091-1-ND"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0189ee46-7dae-4af6-ba54-8723afc34f88")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER 2" "Mouser"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51783e17-7b8a-4f35-9bda-0657ccd3d5a2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SUPPLIER PART NUMBER 2" "262-BMI270"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "36ea830d-97c1-420a-9b92-75233fc6ee3f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ARTIKKELNR NOCA" "N.A."
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f17525a6-7e33-411a-9644-5e574f82e895")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PART NUMBER IPS" "N.A."
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7ab839f0-88c0-48b1-82f5-e662b7be992a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENT CLASS" "Misc_ICs"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3f03fa24-bb79-47d4-9543-daa19efb4b23")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PAD COUNT" "14"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "992f41f5-ac05-46b1-8fd4-f843aca0252f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTID" "101900620"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2887595c-1808-4a9d-90e0-7903dcec39b9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "AUTHOR" "rsk"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd5f8be3-3767-4c00-bdd5-fe49e5946ded")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PART NUMBER NORAUTRON" "N.A."
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3325de3f-9b69-451d-afb5-699beb8afccc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENT STATUS" "Active"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f1d1baf4-1833-4a0d-864e-4c7f8a248724")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PART NUMBER NEMS" "101900620"
+		(at 0 0 270)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "23d61d6c-99f7-47cf-86ba-5c358e4860f2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/Sensors_LEDs/")
+	(sheetfile "pca20065_sensors_and_leds.kicad_sch")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.5 -1.25)
+		(end -1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dc54cc54-e574-432a-9547-d28292554795")
+	)
+	(fp_line
+		(start -1.5 -1.25)
+		(end 1.5 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3daf6b26-70ef-4482-b0cd-fffa9df782be")
+	)
+	(fp_line
+		(start -1.5 1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "38a6f5b9-34fd-484e-8dc8-4c0c58e26d66")
+	)
+	(fp_line
+		(start 1.5 -1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "14057e12-482c-4114-a808-0c742de8a9f8")
+	)
+	(fp_circle
+		(center -1.7 -1.45)
+		(end -1.638 -1.45)
+		(stroke
+			(width 0.125)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "5000dbfa-ba44-430a-813f-eeed87d6df4f")
+	)
+	(fp_line
+		(start -1.5 -1.25)
+		(end -1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5189dd18-4861-4d2f-a301-aafcda62d1d6")
+	)
+	(fp_line
+		(start -1.5 -1.25)
+		(end 1.5 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3170889c-52c4-4757-8e80-ce32be1a95f8")
+	)
+	(fp_line
+		(start -1.5 1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "59de04b7-760d-4923-9c08-889d2ff2d893")
+	)
+	(fp_line
+		(start 1.5 -1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0d824b6a-f327-4398-9e06-08f7374611aa")
+	)
+	(fp_line
+		(start -1.5 -1.25)
+		(end -1.5 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.15")
+		(uuid "12c015fd-87bc-4178-b8a8-5bec2442778f")
+	)
+	(fp_line
+		(start -1.5 -1.25)
+		(end 1.5 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.15")
+		(uuid "a36f0f68-e7a9-4e42-b99a-87041cca5f8c")
+	)
+	(fp_line
+		(start -1.5 1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.15")
+		(uuid "b1b775e2-42da-4865-a7c8-c9850abac4fd")
+	)
+	(fp_line
+		(start -0.5 0)
+		(end 0.5 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.15")
+		(uuid "718737cc-c8e0-477b-a3f9-be8f777af057")
+	)
+	(fp_line
+		(start 0 -0.5)
+		(end 0 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "User.15")
+		(uuid "116f0853-4d16-48ea-842b-4771737b524f")
+	)
+	(fp_line
+		(start 1.5 -1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "User.15")
+		(uuid "8eb67e98-6a12-421e-b2b5-abf2db7e5d5c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at -0.124593 -0.49868 270)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "a7f88dfa-2d38-4ed0-8799-94d53fdc85a4")
+		(effects
+			(font
+				(size 0.381 0.381)
+				(thickness 0.0762)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.1625 -0.75)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2b9e159e-8a69-4d51-a123-a4c59993f30f")
+	)
+	(pad "2" smd rect
+		(at -1.1625 -0.25)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "845a26c1-c095-4ede-a170-2c09d5938e34")
+	)
+	(pad "3" smd rect
+		(at -1.1625 0.25)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "17db3406-0657-44c7-b4b5-14975db77eb5")
+	)
+	(pad "4" smd rect
+		(at -1.1625 0.75)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "809769c6-8921-4c13-a40c-b456dd90a6ef")
+	)
+	(pad "5" smd rect
+		(at -0.5 0.9125 90)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5e17e406-f1d8-455b-8619-2f4fde7db0b7")
+	)
+	(pad "6" smd rect
+		(at 0 0.9125 90)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "aef755d1-499c-4598-861f-80769ba6c8ec")
+	)
+	(pad "7" smd rect
+		(at 0.5 0.9125 90)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6a9988cb-1646-4385-af42-ad65338811c2")
+	)
+	(pad "8" smd rect
+		(at 1.1625 0.75)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ebfaf070-73bd-496a-8af7-1b67aafa85ec")
+	)
+	(pad "9" smd rect
+		(at 1.1625 0.25)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2097f982-113d-4630-939a-032c6d3ccc6f")
+	)
+	(pad "10" smd rect
+		(at 1.1625 -0.25)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f09ed548-c432-47e0-96f6-83cb8b6cc301")
+	)
+	(pad "11" smd rect
+		(at 1.1625 -0.75)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ad16d2f7-fba1-4548-9187-1c962a402203")
+	)
+	(pad "12" smd rect
+		(at 0.5 -0.9125 90)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5435b426-542c-4d65-867b-ea022ad67aac")
+	)
+	(pad "13" smd rect
+		(at 0 -0.9125 90)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a719f3f0-2ddf-4b5f-826a-21c55feaab9e")
+	)
+	(pad "14" smd rect
+		(at -0.5 -0.9125 90)
+		(size 0.475 0.25)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7cf4b49b-b428-4a6e-8155-d3d6b6fd026b")
+	)
+	(embedded_fonts no)
+	(embedded_files
+		(file
+			(name "BMI270.step")
+			(type other)
+			(data |KLUv/WBaMxVWAIp2SBUr4IyqDgh8IjUcFiVPuo3wq3dupYYCa3C4L5DX3pWyItJ9gOmx6zDGGIYQ
+				XnwBKgEiAQrNjDKZZmTTLgpGNR4N5nLhnAmMk+kQWBhcHigytWqbFGt6kN61FRoPhE2mQqJCwTVw
+				KpaKB3qwV7JCg/GN55G4fRm8Co23CpN2zcnMJDPbqqtqgNAyiaSrsCAwadODmpPHNRnPhHXWaect
+				O446K8G5INVDpWERTKNMDwQ5U2Q6UBMAmgoAS7fRQNBsCS6VDXepJKg8MPpt4GRTglnzYT6aTNdg
+				y2A0mi4Ck6noMhVchMqFS5DBZDAKNgw41QGqAV4PYB7gq0l1QHUoa4WF22i2zlLZPAianeuf8I3g
+				IqRH2d9QJ7yzcJcZmS4CjGcJ8EOxcZtLZ+koKiyVBuN5IEfAgnPBVDYVlUyEppOALqzSJFVGTeZj
+				m1bVsFgIWHAWDsOCiYg2Fd1GEzlw4AByoohL5TQ0FBiM5kimBZOZcBacRaarwFB0DbqHQ5s4CS6V
+				S4XbXDARTpfhHGwmMBoHAgJHottwme7SQZwFAQsC2XxM02FBYNnR2roObFIF/LgoGMM2qalBerCf
+				fV/HGLU1Rig/+muGcBUqNGR8hu/PuXn/H8vmyAyX8S7BMIullBHCVdVIGx8tKqso6d85Pu+GLBfq
+				ttyPEsZnV+2qMMl2YGqZSt9+y1KuLtSFLb+jsy58u9+7zrpvoWzJMm6ErxK6y9/3kFGoTYoN+dvf
+				g1GLurFBo5QfGfJH39etuuwrFUYJ48J/9/e6mXdV6ksZoxY1JIwaokaMCguQx9SuWWWY9Krs8Hk/
+				7mV1KWOE5jVZEgmufI0bA3VND49J8u/nHFdSOUysmUkmh4nUz4IIjgIBBbMwanvMmUk2yFVpDhDK
+				lD0kftv6tKWMEfo/76fckuNG24CbYRo1HyTtlVJflDA+9IfPY7/nfsusvPoSOkPzqiwpOugqDSAj
+				ClM1mVo2URJ8f8379MkI+9tfN3drM/P7czQv869jLvvLXvaorB+xY1lZboS/6695V1dG+O54jtZl
+				RrSNSKmZVQ9p36Eqv3bJ+17UJxtGuP+u0XkbPvgLm5f9+f33tavk3Sd1ZXuMcB2+y/ev43NehY97
+				i0xq40l1YJLeqtyO+yDu3aitkVfuP+xsMpzkgSoLs7CG6poiUuR9kr05Rlf4PlIGSLZJkN9D+Pg/
+				l/pxTzObNsuqGpYV7qOSCqOMHDSMIYImZJpQJBgfQpHJtG2Sy38RfmRqlQWhTaTWlxG+v2YGr6tb
+				1nSYTDCLkvYd6st3+V7s5gd5f/W5unwydgNkf7/eYPiD1KOUzzPKZLMmqsoeEK8h/7r2kx0Z7utz
+				+WJD/vXWlUM+ms5xHCeDmXC4DSfhdBlMxLOIEkZd5cbWNahsMBbMhgH3LBqPRIaTuHAbjUPBXTLd
+				5lKxMArTqMqSSCbppVNwEZULpyCis7xm3326KxkQRIZBqLgwugxgV4FNw67IWTR0qYwyq4aKmpJJ
+				JMMaXvpzSVDRdBJPI+5z2O+5lx9IoygPbTkjfJ8W5Jqix5RNbRI1AFSTBWPh8WQ/FJ0ExuJgNo5E
+				V6GoqOCcLuLCZToKjOZYGFgqD7jIBkFNGYWipm3SJtXjWTQY75iRQw4a5JoW5KBVBjaJ16HsXTAe
+				yQZhMUSmNR+mtUkw7XkftYrB0GNCTFpGYcAsyILRkHZgahdGbQtIUrlPqmwweqOqTJsRbEK2a3Kg
+				ZkSKD6W+x44cV6OMInyHDzavLpTv9W/ECxVKR3TAj/z1876+9Agh7zrm0xejhA33G34U3/01/0pV
+				l9DjriMqdAWDXKjSkFJlRmZEJAVJCmkNMkzEIE87K6kD0nAsz2EkhiCDDEGIGIMIMiMyJRIkBWnS
+				AU+01YyknWRWNgHrlygbFisGshiWxcWbE2Jyi73yXZyglyq03NdA1ZSOe98s3StAaXjOkgGhrSNQ
+				fBWu8hpf5ZJEFIbM6MZj2Qq/LOaE6bkJ8HGvTH20i6is0SGVdgqr+RYYL9lh2CA+T9i7UKT3Sxbw
+				Eh2gLd2vaGrPgNxQmeFJ6mplaNbcmhbSdd2OsHG7MVNesXai5ig93stpPNPqF+ZbXQOmCjuEoHUa
+				rnVRLkWpP0Rkex1RlZfI6BNHy1LOY2s7Zjq0S+xtcKK6lEiN6nECA/SUOJvb+8NFJ5y0TcOfUAL5
+				F2KgdFS/jPLQqEH8mTPGYZJCRLktt4oOwvMm79XW4tUlW0DGZ88CGt8qWS5QPkTzSDdadGbzSAN9
+				0HTo11ILjO7qPBaYNYG0eOtyfJnzZfQLtqmOrHXnNL05DqSFkP7o6nO993AJbBqQj3snoRZ2eIsO
+				mwCaNSLdNmACIk4v6ymKk+zepF3P5t99k/OnKddKTyg1XLwj99oeW+FYnZhumhCPbd3J00+ConLZ
+				NKUhXi/+C/ggnOmfOi9WPY1JMIfCP4dIsZwwjTqYi3WWehdd9+2I9CaqGbJNXRd/S6fT6ez14q59
+				sF9finjZ6mF/KByGOISc7yAS+OIK6uMvAUXddauE5ZRYEhzNp8kgWXS+BVe/RL8RQiprcNiD6ET5
+				zup06//yhg1MH9BJT32QWhK6FdQ4CtsIBJf+LpK1od9tbkRr86Em7vchmiee7aN+sirck3df/oDq
+				cT6ZEt9u99UTzhYHrOtsGLJtOsiXFJgP08eb80dBMhhcAgQSjkA5D1ppowQ+EcJFkykLTyQEOsSP
+				aOp7djg14Z0ZJVaSJpNeIxCH6TedDAFcinbuFdSDhFXinXtV8450mUakGFs2wxJ9ATROIELKEiR6
+				TlHBzUmb/BHoh5256KgTxQfkZL96JM4SeiLvNZZ0yQfIwiMUVXd5NKKkDuwNKWIyJYU0O6220hBC
+				hzTBdBGoTOWVXEMY2QZtgTD3FrUbZJ9IKFpJx4sO4JqUlsw3y054fnTaUMX0BV0pDwaEEDFE/FEO
+				H6cWDlMlRWs8k+x3s4ancW6XyutDHItjITBfLBQLw+JYojN34Si4yy7KwvEyi2yxZwT1eH57ixDq
+				k68/FZOQ1v6y1w0ctY1/70VwyOyMTAcw8PsYC3BphWb7/Lk4ku0vJEGirTsq1+KwMpOIYt8N3rgB
+				XorXtu9MEH+i0fMTS96XALl1Ixo9n4DiBP0di5zlCKkYlsE55BHSv0BelBw1CGXFJiROAYprI83U
+				HWygWPtsVhTODYlrYHzTPiCxezGUKlom7e6Nkym1YeVO2KvBQDxAAiAhuFI0WSLbVQ62WsyWZFsL
+				22YZJRiLWa7pV0VaGr0G9DJqIYoAFK5oMBYIKQqNKTvVegEU92RtHkAKNXgCRM0HVIP7oL4AFaJ5
+				kr0naX7PSqGpnXz0b5feMbpZRjqlQqlQlFJF8YsnjE2fYrnAbRBZG9EP7EB0YB3R6RHRo+lM8tau
+				xZBW2VSIizwJiDulq95AlRAjB/dCUIdNNioE1NnsNzvdbnfv6th3f6HtTmBYpzzJaqau9iRoZxKd
+				miQomD3Ftkav8yg3Ojov8h+A2svZMRVZSG1Bh7KrUtMuvBSCQjJL9OTXZTHpS495JXnVn1g0srkg
+				cQ4w3fJvTM/ZR7kvpcEACK/iEh4a1T+pfPMlY9lRF6jyMZ8dSdtdwyQnKU0Et8/0GWksFRGC9uCc
+				sjpaZGIFHUd6ILD4v7nf4dhauPwOHaE5uO60Ag==|
+			)
+			(checksum "0DAC41D20589BC6D246C47C9D337A511")
+		)
+	)
+	(model "kicad-embed://BMI270.step"
+		(offset
+			(xyz 0.00005 0.00006 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 0)
+		)
+	)
+)

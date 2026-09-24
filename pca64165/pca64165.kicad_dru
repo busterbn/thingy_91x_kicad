@@ -1,0 +1,18 @@
+(version 1)
+# Nordic's Altium design rules for PCA64165, translated to KiCad.
+
+(rule "Width"
+	(condition "A.Type == 'Track'")
+	(constraint track_width (min 0.2032mm) (opt 0.381mm) (max 2.54mm)))
+
+(rule "Polygon_Clearance"
+	(condition "A.Type == 'Zone' && A.NetName == 'GND'")
+	(constraint clearance (min 0.254mm)))
+
+(rule "RoutingVias"
+	(condition "A.Type == 'Via'")
+	(constraint via_diameter (min 0.6096mm))
+	(constraint hole_size (min 0.3048mm)))
+
+(rule "BoardOutlineClearance"
+	(constraint edge_clearance (min 0.2mm)))

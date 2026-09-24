@@ -1,0 +1,19 @@
+# KiCad backups, locks and caches
+*-backups/
+~*.lck
+_autosave-*
+*.kicad_prl
+fp-info-cache
+*.bak
+*-bak
+
+# Generated output
+*-gerbers/
+*.zip
+
+# Python
+__pycache__/
+.venv/
+
+# macOS
+.DS_Store
