@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "1606f910-d060-4a86-9e66-fdd27a02874f")
+		(uuid "353b22b9-f29c-430a-8ac7-b93fa0887c0b")
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -21,7 +21,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "815d3ba3-4f9b-48ae-8aad-d3dd36bfb201")
+		(uuid "4dccca5a-b619-449c-8640-7be89a5a9473")
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -33,7 +33,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "bc57859f-ecf9-4fd9-ad2a-4125a524fe01")
+		(uuid "a1d59c3a-b7e2-4324-8385-491f3edf19c3")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "307c9164-8f41-48f2-b042-1270144e82f0")
+		(uuid "a3d3ae71-4f6e-448a-aaec-ed623d961e6c")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -375,6 +375,7 @@
 			)
 		)
 	)
+	(property ki_fp_filters "*CAF-50P160X80-6N*")
 	(sheetname "/RF_Frontend/")
 	(sheetfile "pca20065_rf_front-end.kicad_sch")
 	(duplicate_pad_numbers_are_jumpers no)
@@ -849,4 +850,15 @@
 		(uuid "cebdc366-403b-4bbc-ae35-90d6a1a57449")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/LFD182G45DCJD247.step"
+		(offset
+			(xyz 0 0 0.01)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
 )

@@ -19,6 +19,8 @@ Nordic's design rules are in the `.kicad_dru` files. DRC still shows some warnin
 
 `kicad-cli` schematic parity reports "No corresponding pin" for unlabeled nets. Update PCB from Schematic in the GUI shows no changes, so this looks like a CLI issue.
 
+3D models missing from Nordic's files were added in `pca20065/3dmodels/`: nRF9151 from SnapMagic, most passives/RF parts from LCSC/EasyEDA, the tactile switch from the LanguidSmartass/altium-libs repo, and generic side-view LED and WSON-8 models from the KiCad library. The nPM6001 and nRF5340 (WLCSP) still have no model.
+
 ## License
 
 The design is Nordic Semiconductor's. See `License.txt` and `Legal_Disclaimer.pdf`. This is not an official Nordic release.

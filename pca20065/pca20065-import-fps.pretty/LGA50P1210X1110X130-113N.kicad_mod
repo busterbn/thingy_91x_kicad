@@ -7,7 +7,7 @@
 		(at -4.856952 6.586183 0)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "a7108549-a4ce-41fa-a16a-a928ec0fc2ee")
+		(uuid "ba8f7dc0-f0fc-4de6-a6b4-4d44a1e1b46d")
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -20,7 +20,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "655436d7-d030-4fc2-9587-185d7aaa12d9")
+		(uuid "ce5a23a6-3fd9-403f-abac-9290e91556b1")
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "5433e2f6-1167-4801-b895-3a27ccdd9265")
+		(uuid "0d0944ee-0a53-4f06-8c2b-28b3b59a63a1")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "b6315f2f-eb69-4046-8073-d4e94f4a71df")
+		(uuid "aa3468b9-5077-4771-972a-496b78318d5b")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -386,6 +386,7 @@
 			)
 		)
 	)
+	(property ki_fp_filters "*LGA50P1210X1110X130-113N*")
 	(sheetname "/nRF9151/")
 	(sheetfile "pca20065_nrf9151.kicad_sch")
 	(duplicate_pad_numbers_are_jumpers no)
@@ -1374,4 +1375,15 @@
 		(uuid "b4fb3f46-d572-4623-9375-c1e802a4c9ca")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/NRF9151-LACA-R.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
 )

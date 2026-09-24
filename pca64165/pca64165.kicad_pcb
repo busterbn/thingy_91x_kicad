@@ -23198,16 +23198,6 @@
 		(uuid "8371b32d-5dd7-484f-8e7a-13aedf397904")
 	)
 	(gr_line
-		(start 139.624735 128.019278)
-		(end 139.624735 128.019275)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "9bbcdc9e-6dd3-4325-8da6-571041fd0926")
-	)
-	(gr_line
 		(start 139.701105 86.917005)
 		(end 140.524535 86.917005)
 		(stroke
@@ -23251,7 +23241,7 @@
 	(gr_arc
 		(start 141.195419 129.590194)
 		(mid 140.086386 129.128379)
-		(end 139.624735 128.019278)
+		(end 139.624735 128.019275)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -23303,23 +23293,13 @@
 	)
 	(gr_line
 		(start 150.777685 86.993585)
-		(end 150.777685 93.237495)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "e1f08da9-96c0-443e-a862-b5cde0fbb32d")
-	)
-	(gr_line
-		(start 150.777685 93.237495)
 		(end 150.777485 93.219002)
 		(stroke
 			(width 0.05)
 			(type solid)
 		)
 		(layer "Edge.Cuts")
-		(uuid "bb25cea7-2348-4d7d-86e5-bd9eceac69d8")
+		(uuid "e1f08da9-96c0-443e-a862-b5cde0fbb32d")
 	)
 	(gr_arc
 		(start 152.1957 94.637215)
@@ -23334,16 +23314,6 @@
 	)
 	(gr_line
 		(start 152.1957 94.637215)
-		(end 152.195705 94.637205)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "a4da009e-e403-4b3a-a988-202aa5c6502f")
-	)
-	(gr_line
-		(start 152.195705 94.637205)
 		(end 152.201105 94.637015)
 		(stroke
 			(width 0.05)
@@ -23374,16 +23344,6 @@
 	)
 	(gr_line
 		(start 155.806742 129.589995)
-		(end 155.806745 129.589995)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "cc4f5a8f-4dbd-45ef-9f1d-c6b629a79011")
-	)
-	(gr_line
-		(start 155.806745 129.589995)
 		(end 155.791905 129.590205)
 		(stroke
 			(width 0.05)
@@ -23405,16 +23365,6 @@
 	)
 	(gr_line
 		(start 157.377465 96.207925)
-		(end 157.377475 96.207915)
-		(stroke
-			(width 0.05)
-			(type solid)
-		)
-		(layer "Edge.Cuts")
-		(uuid "1640a5cf-e907-45ab-8083-bea2236335e0")
-	)
-	(gr_line
-		(start 157.377475 96.207915)
 		(end 157.377674 128.019283)
 		(stroke
 			(width 0.05)

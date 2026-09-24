@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "b1781802-a377-4cab-bf2f-fe1a503a4188")
+		(uuid "0bb2b692-6874-4d34-83ab-49253b6eed76")
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -21,7 +21,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "b904055b-c1c1-4c72-96fa-69e676bc4e6f")
+		(uuid "9b4fd18d-f930-4825-bf59-0d89ac481a10")
 		(effects
 			(font
 				(size 0.6858 0.6858)
@@ -33,7 +33,7 @@
 		(at 0 0 180)
 		(layer "B.Fab")
 		(hide yes)
-		(uuid "b0f90787-1501-4054-91a6-eb92aa60c3b8")
+		(uuid "3dbc7f7d-e576-4fd2-869e-0194369feb50")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(at 0 0 180)
 		(layer "B.Fab")
 		(hide yes)
-		(uuid "d6509961-bb7e-460a-a843-f38968dca799")
+		(uuid "22b6b186-e0a4-4cde-b7a9-928f2cde9e2d")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -404,6 +404,7 @@
 			(justify mirror)
 		)
 	)
+	(property ki_fp_filters "*SAFFB2G45MA0F0A*")
 	(sheetname "/nRF5340/")
 	(sheetfile "pca20065_nrf5340.kicad_sch")
 	(duplicate_pad_numbers_are_jumpers no)
@@ -657,4 +658,15 @@
 		(uuid "9a8006a7-a778-4d67-8e2a-0f63b8fb4cf5")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/SAFFB2G45MA0F0A.step"
+		(offset
+			(xyz 0 0 0.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )

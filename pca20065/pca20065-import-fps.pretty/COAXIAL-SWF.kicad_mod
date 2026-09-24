@@ -7,7 +7,7 @@
 		(at -1.072217 -1.961646 90)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "4ce0a4e8-1884-40b4-ba73-7842e9830d20")
+		(uuid "3e19775c-be39-4e43-ab23-251e3d2f1e89")
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -20,7 +20,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "52b4a909-6185-4c03-968b-d49dd6b336cd")
+		(uuid "a1c57951-71ff-4f4f-950b-bea005605d27")
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "ef704e71-7914-4838-b62f-bd394cb96d50")
+		(uuid "b6bb61d6-a6e3-4da3-b854-08d669a44f5f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "6c4591f9-ee71-4b68-96fb-09ea97f369aa")
+		(uuid "b9da5b7d-de49-4082-84c9-30f22b4fc77f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -386,6 +386,7 @@
 			)
 		)
 	)
+	(property ki_fp_filters "*COAXIAL-SWF*")
 	(sheetname "/RF_Frontend/")
 	(sheetfile "pca20065_rf_front-end.kicad_sch")
 	(duplicate_pad_numbers_are_jumpers no)
@@ -2841,4 +2842,15 @@
 		)
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/MM8130-2600.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
 )

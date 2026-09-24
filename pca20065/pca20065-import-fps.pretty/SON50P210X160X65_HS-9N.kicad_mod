@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "014f60fe-6889-4100-9d1d-8aadaa142271")
+		(uuid "06ee23cb-da5e-43d8-9ebf-13925c02304b")
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -21,7 +21,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "6b39ed62-77ea-4550-92d0-9ed4d4e67013")
+		(uuid "9407bd31-17d5-4b80-a601-e0659f99836b")
 		(effects
 			(font
 				(size 0.6858 0.6858)
@@ -33,7 +33,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "bc0b7908-f854-453b-b889-69744277a363")
+		(uuid "fe57858b-4a3b-4129-8ee6-1684fbea90ee")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "02df08e6-0f08-45cb-bb67-08f8558153a7")
+		(uuid "3d760ba0-d92c-4466-8dba-e5404618d9ae")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -375,6 +375,7 @@
 			)
 		)
 	)
+	(property ki_fp_filters "*SON50P210X160X65_HS-9N*")
 	(sheetname "/Interface/")
 	(sheetfile "pca20065_interface.kicad_sch")
 	(duplicate_pad_numbers_are_jumpers no)
@@ -910,4 +911,15 @@
 		(uuid "c92f48c2-7c79-45e0-964c-6d46fdaf21c0")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/TPD3F303DPVR.step"
+		(offset
+			(xyz 0 0 0.02)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
 )

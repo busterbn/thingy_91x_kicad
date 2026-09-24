@@ -7,7 +7,7 @@
 		(at -0.1175 -1.997443 180)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "29716e42-3436-43bb-b640-95ca8c67b3e6")
+		(uuid "ffc46d1e-e717-40d6-860f-482ee6af8e42")
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -20,7 +20,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "2d452b5c-4833-4b2f-bf77-57dedb8ba303")
+		(uuid "3854c003-6b79-4035-8b2c-a20878e13d92")
 		(effects
 			(font
 				(size 0.6858 0.6858)
@@ -32,7 +32,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "f892cd5b-0e03-46dd-bf3c-859871f0e8da")
+		(uuid "9586ae7d-babf-4dcf-b3da-66d3d224c5be")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "0bc60279-993f-4f88-b193-3b4f3d975d4c")
+		(uuid "edb4b6fd-937e-4739-9540-cf5abeaf897f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -374,6 +374,7 @@
 			)
 		)
 	)
+	(property ki_fp_filters "*SKY65943-11*")
 	(sheetname "/nRF9151/")
 	(sheetfile "pca20065_nrf9151.kicad_sch")
 	(duplicate_pad_numbers_are_jumpers no)
@@ -675,4 +676,15 @@
 		(uuid "0f54f449-f6ec-4150-8e94-2b1a896e553b")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/SKY65943-11.step"
+		(offset
+			(xyz 0 0 0.12)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
 )

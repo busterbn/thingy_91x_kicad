@@ -7,7 +7,7 @@
 		(at -3.847069 0.785537 180)
 		(unlocked yes)
 		(layer "F.SilkS")
-		(uuid "8bf49d1f-a47c-4068-a62c-1b52214d2ec6")
+		(uuid "8ddf10e8-21a9-4b2e-a10b-86178863ce95")
 		(effects
 			(font
 				(size 0.635 0.635)
@@ -20,7 +20,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "76c19641-6d85-4b4a-aa57-b3ed1f60989c")
+		(uuid "62bfaa8c-7594-40dd-a9ea-0afde9b56225")
 		(effects
 			(font
 				(size 0.6858 0.6858)
@@ -32,7 +32,7 @@
 		(at 0 0 180)
 		(layer "B.Fab")
 		(hide yes)
-		(uuid "c422c937-062c-4c0b-8b0f-c14043ed5dff")
+		(uuid "f7820ccc-f9ff-49ba-8927-e0677a1aed6e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 180)
 		(layer "B.Fab")
 		(hide yes)
-		(uuid "3c3c7363-5d5a-46b6-8111-d9788e3b5e76")
+		(uuid "322699ce-0675-448e-8e3b-0320528e3c23")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -403,6 +403,7 @@
 			(justify mirror)
 		)
 	)
+	(property ki_fp_filters "*L-KLS7-TS5401A-1.35-250-T*")
 	(sheetname "/Interface/")
 	(sheetfile "pca20065_interface.kicad_sch")
 	(duplicate_pad_numbers_are_jumpers no)
@@ -814,4 +815,15 @@
 		(uuid "c843e223-b21f-413e-bfa9-9bf12309b64e")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/KLS7-TS5401.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )

@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS" knockout)
 		(hide yes)
-		(uuid "e64747d7-03df-4e8b-99bc-0ef5cc19b97f")
+		(uuid "5085ba78-adb2-455a-8b58-a663f06d30a2")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -21,7 +21,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "13791bb9-db78-4b34-986b-fec216b6c365")
+		(uuid "16193b22-e0f6-4686-9da0-107caf2f1753")
 		(effects
 			(font
 				(size 0.6858 0.6858)
@@ -33,7 +33,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "9a67d9e8-dd4b-4490-b4cd-5f90e8b3d0da")
+		(uuid "bf7d6a65-b372-44a6-b2ed-7371fb0bbbab")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -44,7 +44,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "83c5b0bd-6ce9-4594-aae7-9ea01d2b04d2")
+		(uuid "645dcc76-94ee-494e-9cd5-4c23e67c297a")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -375,6 +375,7 @@
 			)
 		)
 	)
+	(property ki_fp_filters "*OVSRRGBCC3_Side*")
 	(sheetname "/Sensors_LEDs/")
 	(sheetfile "pca20065_sensors_and_leds.kicad_sch")
 	(duplicate_pad_numbers_are_jumpers no)
@@ -474,4 +475,15 @@
 		(uuid "ce1f5ba6-2d9f-4ddc-abe2-74b030c0fb95")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/3dmodels/generic_LED_SideView_1204.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 90)
+		)
+	)
 )
